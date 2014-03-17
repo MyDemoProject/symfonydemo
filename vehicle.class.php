@@ -1,6 +1,6 @@
 <?php
 echo "ajaykumarsahu";
-echo "ajaykumarsahu___________________";
+echo "ajaykumarsahu___________________sahu";
 class vehicle{
 /*** define public properties ***/
 
