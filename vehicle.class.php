@@ -7,6 +7,8 @@ class vehicle{
 /*** the color of the vehicle ***/
 public $color;
 
+// my name is ajay sahu
+
 /*** the number of doors ***/
 public $num_doors;
 
